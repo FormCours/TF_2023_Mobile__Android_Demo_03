@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Demo03_Event</string>
+    <string name="title_app">Demo 03 - Event</string>
+    <string name="btn_msg_1">Msg 1</string>
+    <string name="btn_msg_2">Msg 2</string>
+    <string name="btn_hello">Hello !!!</string>
+    <string name="initial_msg">Message de base :o</string>
+    <string name="btn_valid">Valider</string>
+    <string name="title_demo_form">Demo saisie utilisateur</string>
+    <string name="toast_form_msg1">Numéro : {0}</string>
+    <string name="toast_form_msg2">Numéro : %s</string>
+</resources>
